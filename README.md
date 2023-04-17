@@ -1,2 +1,5 @@
 # cse176-project
-project for Intro to Machine Learning
+## Part 1
+- It currently does not use the mini dataset
+- To run, just run logReg_mnist.py
+- Note that you have to install all dependencies
